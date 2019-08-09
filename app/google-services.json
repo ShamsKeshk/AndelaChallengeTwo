@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974566549639",
+    "firebase_url": "https://andelaphasetwochallenge.firebaseio.com",
+    "project_id": "andelaphasetwochallenge",
+    "storage_bucket": "andelaphasetwochallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974566549639:android:be4c086efc4760eb",
+        "android_client_info": {
+          "package_name": "com.example.andelachallengetwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974566549639-0t88f9doql1fdfie92f6b5jolg29gv0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andelachallengetwo",
+            "certificate_hash": "34d43e1eab46f0940093e0db33c22d3f9390455a"
+          }
+        },
+        {
+          "client_id": "974566549639-2kl99p3fbg68c1rovr4vlb355nqm9b2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCJ2trnE1V9epFsC1Fgy1mv82-kSHyPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974566549639-2kl99p3fbg68c1rovr4vlb355nqm9b2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
